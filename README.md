@@ -35,7 +35,7 @@ Feel free to submit issues, pull requests with the content you used/use to learn
 TBU
 
 ## Worth watching talks about Svelte:
-TBU
+[Rich Harris - Rethinking reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao)
 
 ## Books about Svelte
-TBU
+[The Svelte Handbook by Flavio Copes](https://www.freecodecamp.org/news/the-svelte-handbook/)
