@@ -6,6 +6,7 @@ Feel free to submit issues, pull requests with the content you used/use to learn
 
 ## Youtube channels with Svelte content:
 [Svelte Master](https://www.youtube.com/channel/UCg6SQd5jnWo5Y70rZD9SQFA/featured)
+
 [SpinSpire](https://www.youtube.com/channel/UCJ4h7utY-IjXKXOUuwmSYXw)
 
 ## Video tutorial series:
