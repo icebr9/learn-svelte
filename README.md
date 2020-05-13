@@ -1,7 +1,7 @@
 ## Contribute!
 Feel free to submit issues, pull requests with the content you used/use to learn Svelte!
 
-### Youtube channels with Svelte content:
+### Youtube channels with a lot of Svelte content:
 [Svelte Master](https://www.youtube.com/channel/UCg6SQd5jnWo5Y70rZD9SQFA/featured)
 
 [SpinSpire](https://www.youtube.com/channel/UCJ4h7utY-IjXKXOUuwmSYXw)
@@ -26,6 +26,10 @@ Feel free to submit issues, pull requests with the content you used/use to learn
 [Let’s Learn Svelte (with Rich Harris) by Learn With Jason](https://www.youtube.com/watch?v=ogXETl_I0Dg)
 
 [Beginner's tutorial in JavaScript UI development: with SvelteJS by SpinSpire](https://www.youtube.com/watch?v=E5FmzsQWBh0&list=PLKUl5gVuvLjh7l0SDn-BoZtMgN3TDMNPd)
+
+[Reactive Meteor and Svelte by Scott Tolinski/LevelUpTuts](https://www.youtube.com/playlist?list=PLLnpHn493BHHrJWLpGqCvLFwsWQ9jCBQR)
+
+[Learn Svelte and Fire Base by Fireship.io and David East](https://www.youtube.com/watch?v=zO_7TNrRO9c)
 
 ### Online Courses
 [Learn Svelte by Svelte Master (Scrimba)](https://scrimba.com/course/glearnsvelte/enrolled)
